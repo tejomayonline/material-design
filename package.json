@@ -13,5 +13,8 @@
     "ux"
   ],
   "author": "Tejomay Saha <tejomaysaha@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "material-design-lite": "^1.3.0"
+  }
 }
