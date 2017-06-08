@@ -1,0 +1,54 @@
+/**
+ * Copyright 2015 Google Inc. All Rights Reserved.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+/* Material Design Lite */
+
+// Variables and mixins
+@import "components/variables";
+@import "components/mixins";
+
+// Resets and dependencies
+@import "components/resets";
+@import "components/typography";
+
+// Components
+@import "components/palette";
+@import "components/ripple";
+@import "components/animation";
+@import "components/badge";
+@import "components/button";
+@import "components/card";
+@import "components/checkbox";
+@import "components/chip";
+@import "components/data-table";
+@import "components/dialog";
+@import "components/mega_footer";
+@import "components/mini_footer";
+@import "components/icon-toggle";
+@import "components/list";
+@import "components/menu";
+@import "components/progress";
+@import "components/layout";
+@import "components/radio";
+@import "components/slider";
+@import "components/snackbar";
+@import "components/spinner";
+@import "components/switch";
+@import "components/tabs";
+@import "components/textfield";
+@import "components/tooltip";
+@import "components/shadow";
+@import "components/grid";
